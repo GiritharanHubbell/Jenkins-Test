@@ -194,7 +194,7 @@
 					21BA8708205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = PC4EZBP456;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					21BA871C205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -423,7 +423,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Vertisize Solutions Private Limited (PC4EZBP456)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Vertisize Solutions Private Limited (PC4EZBP456)";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -440,8 +440,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Vertisize Solutions Private Limited (PC4EZBP456)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: nadeem.ahmed@vertisize.com (65U2YN98G8)";
-				CODE_SIGN_STYLE = Manual;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
