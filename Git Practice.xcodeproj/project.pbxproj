@@ -427,7 +427,7 @@
 				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.in.gitpractice.vertisize;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.gitpractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "0477aa24-f3ff-414b-9200-2f33697aff92";
 				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
@@ -445,7 +445,7 @@
 				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = co.in.gitpractice.vertisize;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.gitpractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
