@@ -193,8 +193,8 @@
 				TargetAttributes = {
 					21BA8708205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = PC4EZBP456;
-						ProvisioningStyle = Automatic;
+						DevelopmentTeam = CMDH2UACV7;
+						ProvisioningStyle = Manual;
 					};
 					21BA871C205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -421,16 +421,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hubbell, Inc.";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hubbell, Inc.";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PC4EZBP456;
+				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.gitpractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0477aa24-f3ff-414b-9200-2f33697aff92";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
+				PROVISIONING_PROFILE = "c11e89b2-fa8a-41ab-b9dd-777f7f561cab";
+				PROVISIONING_PROFILE_SPECIFIER = WildCard;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -439,16 +439,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hubbell, Inc.";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hubbell, Inc.";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PC4EZBP456;
+				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.gitpractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "c11e89b2-fa8a-41ab-b9dd-777f7f561cab";
+				PROVISIONING_PROFILE_SPECIFIER = WildCard;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
