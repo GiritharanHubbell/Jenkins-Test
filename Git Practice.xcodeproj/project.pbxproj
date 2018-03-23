@@ -193,8 +193,8 @@
 				TargetAttributes = {
 					21BA8708205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = CMDH2UACV7;
-						ProvisioningStyle = Manual;
+						DevelopmentTeam = PC4EZBP456;
+						ProvisioningStyle = Automatic;
 					};
 					21BA871C205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -421,12 +421,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
-				DEVELOPMENT_TEAM = CMDH2UACV7;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.testing123;
+				PRODUCT_BUNDLE_IDENTIFIER = co.in.gitpractice.vertisize;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "0477aa24-f3ff-414b-9200-2f33697aff92";
 				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
@@ -438,15 +439,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
-				DEVELOPMENT_TEAM = CMDH2UACV7;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.testing123;
+				PRODUCT_BUNDLE_IDENTIFIER = co.in.gitpractice.vertisize;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "913889a2-6e04-4de8-91a0-2e96b9467ba7";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
