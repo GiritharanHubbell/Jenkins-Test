@@ -427,7 +427,7 @@
 				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.vertisize.Git-Practice";
+				PRODUCT_BUNDLE_IDENTIFIER = com.GitPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -445,7 +445,7 @@
 				DEVELOPMENT_TEAM = PC4EZBP456;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.vertisize.Git-Practice";
+				PRODUCT_BUNDLE_IDENTIFIER = com.GitPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
