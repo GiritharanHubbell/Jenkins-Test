@@ -429,8 +429,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.GitPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "913889a2-6e04-4de8-91a0-2e96b9467ba7";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
+				PROVISIONING_PROFILE = "204f1697-a3e1-4bcf-9107-b78ec224dcd5";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell App Dev WildCard";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -447,8 +447,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.GitPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0477aa24-f3ff-414b-9200-2f33697aff92";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
+				PROVISIONING_PROFILE = "204f1697-a3e1-4bcf-9107-b78ec224dcd5";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell App Dev WildCard";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
