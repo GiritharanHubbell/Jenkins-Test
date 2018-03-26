@@ -427,10 +427,10 @@
 				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.GitPractice;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.GitPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "913889a2-6e04-4de8-91a0-2e96b9467ba7";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -445,10 +445,10 @@
 				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.GitPractice;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.GitPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "0477aa24-f3ff-414b-9200-2f33697aff92";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
