@@ -429,7 +429,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1d661d44-eb5b-430d-9d1c-b086e76d56a7";
+				PROVISIONING_PROFILE = "700a20fc-2d6b-4789-b603-007dc2b51d7f";
 				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc VOIP Pagepart";
 				SWIFT_VERSION = 3.0;
 			};
@@ -447,7 +447,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1d661d44-eb5b-430d-9d1c-b086e76d56a7";
+				PROVISIONING_PROFILE = "700a20fc-2d6b-4789-b603-007dc2b51d7f";
 				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc VOIP Pagepart";
 				SWIFT_VERSION = 3.0;
 			};
