@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					21BA8708205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = CMDH2UACV7;
+						DevelopmentTeam = LS28WAMS7A;
 						ProvisioningStyle = Manual;
 					};
 					21BA871C205FC9CB00070801 = {
@@ -424,7 +424,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CMDH2UACV7;
+				DEVELOPMENT_TEAM = LS28WAMS7A;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
@@ -442,7 +442,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CMDH2UACV7;
+				DEVELOPMENT_TEAM = LS28WAMS7A;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
