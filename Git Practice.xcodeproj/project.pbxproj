@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					21BA8708205FC9CB00070801 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = LS28WAMS7A;
+						DevelopmentTeam = CMDH2UACV7;
 						ProvisioningStyle = Manual;
 					};
 					21BA871C205FC9CB00070801 = {
@@ -424,13 +424,13 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = LS28WAMS7A;
+				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "700a20fc-2d6b-4789-b603-007dc2b51d7f";
-				PROVISIONING_PROFILE_SPECIFIER = "com.hubbellvoip.pagepart InHouse";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc VOIP Pagepart";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -442,13 +442,13 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasan Moorthy (C3YTRTSR75)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = LS28WAMS7A;
+				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = "Git Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "700a20fc-2d6b-4789-b603-007dc2b51d7f";
-				PROVISIONING_PROFILE_SPECIFIER = "com.hubbellvoip.pagepart InHouse";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc VOIP Pagepart";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
